@@ -4,6 +4,7 @@
 - [AJAX]
 - [jQuery $.ajax][$.ajax]
 
+CRUD - CREATE READ UPDATE DELETE
 
 
 [AJAX]: https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started
